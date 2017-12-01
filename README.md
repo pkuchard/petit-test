@@ -1,2 +1,3 @@
 # petit-test
-Pour tester less fonctionnalités de GitHub
+Pour tester les fonctionnalités de GitHub
+Et voilà !
